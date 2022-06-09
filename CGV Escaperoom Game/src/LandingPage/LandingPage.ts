@@ -184,8 +184,8 @@ const LandingPage = () => {
           console.log("hello");
           window.removeEventListener("click", onClick);
           document.body.removeChild(renderer.domElement);
-          // Room3();
-          // Room2();
+          //Room3();
+          //Room2();
           Room1();
         }
       }
